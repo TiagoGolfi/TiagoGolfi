@@ -1,6 +1,6 @@
 Olá, eu sou Tiago Golfi👋
 
-🔭 Atualmente estou trabalhando mas em transição de carreira,  em busca da minha oportunidade como DEV;
+🔭 Atualmente em formação Full Stack JS, buscando a transição de carreira e minha primeira oportunidade como DEV;
 
 🌱 Experiência com JavaScript, NodeJS, React, SQL, HTML e CSS, TypeScript, Next.js;
 
